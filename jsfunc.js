@@ -39,12 +39,12 @@ $(document).ready(function () {
         backSpeed: 40,
         loop: true
     });
-    var typed = new Typed(".typing-2", {
+  /*  var typed = new Typed(".typing-2", {
         strings: ["a Web Developer", "an IOT Intern", "a Freelancer", "a Mentor", "an UI designer"],
         typeSpeed: 100,
         backSpeed: 40,
         loop: true
-    });
+    }); */
 
     // owl carousel script
     $('.carousel').owlCarousel({
